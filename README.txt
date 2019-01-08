@@ -1,0 +1,1 @@
+Twitter criado utilizando arvore B+ utilizando indices em memória principal e arquivos de dados em memória secuntdaria para otimizar o uso dos recursos computacionais.

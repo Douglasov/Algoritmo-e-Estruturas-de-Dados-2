@@ -1,0 +1,538 @@
+# depslib dependency file v1.0
+1465561535 source:c:\users\aluno\desktop\twitter 2.0\main.cpp
+	"mensagem.h"
+	"usuario.h"
+	"cadastro.h"
+
+1463421863 c:\users\aluno\desktop\twitter 2.0\mensagem.h
+	<iostream>
+	<stdio.h>
+	<string.h>
+
+1463420105 source:c:\users\aluno\desktop\twitter 2.0\mensagem.cpp
+	"mensagem.h"
+
+1465561535 c:\users\aluno\desktop\twitter 2.0\usuario.h
+	<iostream>
+	<string.h>
+
+1465561535 D
+
+1465561247 source:c:\users\aluno\desktop\twitter 2.0\usuario.cpp
+	"usuario.h"
+
+1465562779 c:\users\aluno\desktop\twitter 2.0\cadastro.h
+	<iostream>
+	<string.h>
+
+1465562439 source:c:\users\aluno\desktop\twitter 2.0\cadastro.cpp
+	"cadastro.h"
+
+1465562439 h"
+
+1464955780 source:c:\users\aluno\documents\twitter\twitter-ecoi08\main.cpp
+	"mensagem.h"
+	"usuario.h"
+
+1464955780 c:\users\aluno\documents\twitter\twitter-ecoi08\mensagem.h
+	<iostream>
+	<stdio.h>
+	<string.h>
+
+1464956890 c:\users\aluno\documents\twitter\twitter-ecoi08\usuario.h
+	<iostream>
+	<string.h>
+
+1464955780 source:c:\users\aluno\documents\twitter\twitter-ecoi08\mensagem.cpp
+	"mensagem.h"
+
+1464955780 source:c:\users\aluno\documents\twitter\twitter-ecoi08\usuario.cpp
+	"usuario.h"
+
+1464957488 source:c:\users\aluno\documents\twitter\twitter-ecoi08\binarioarq.cpp
+
+1464957488 7aae563003b3b9cae283312db0db0c7b8c210
+
+1465548506 source:c:\users\marvs\desktop\twitter\twitter-ecoi08-master\cadastro.cpp
+	"cadastro.h"
+
+1465548506 c:\users\marvs\desktop\twitter\twitter-ecoi08-master\cadastro.h
+	<iostream>
+	<string.h>
+
+1465767634 source:c:\users\marvs\desktop\twitter\twitter-ecoi08-master\main.cpp
+	"usuario.h"
+	"mensagem.h"
+	"cadastro.h"
+	"binarioarq.h"
+
+1465766595 c:\users\marvs\desktop\twitter\twitter-ecoi08-master\mensagem.h
+	<iostream>
+	<stdio.h>
+	<string.h>
+
+1465757980 c:\users\marvs\desktop\twitter\twitter-ecoi08-master\usuario.h
+
+1465548506 c:\users\marvs\desktop\twitter\twitter-ecoi08-master\binarioarq.h
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<fstream>
+
+1465766351 source:c:\users\marvs\desktop\twitter\twitter-ecoi08-master\mensagem.cpp
+	"mensagem.h"
+	"usuario.h"
+
+1465757255 source:c:\users\marvs\desktop\twitter\twitter-ecoi08-master\usuario.cpp
+	<iostream>
+	<string.h>
+	"usuario.h"
+
+1465548506 source:c:\users\aluno\desktop\twitter-ecoi08-master\cadastro.cpp
+	"cadastro.h"
+
+1465548506 c:\users\aluno\desktop\twitter-ecoi08-master\cadastro.h
+	<iostream>
+	<string.h>
+
+1466171833 source:c:\users\aluno\desktop\twitter-ecoi08-master\main.cpp
+	"usuario.h"
+	"mensagem.h"
+	"cadastro.h"
+	"binarioarq.h"
+
+1466171833 c:\users\aluno\desktop\twitter-ecoi08-master\usuario.h
+
+1466171833 c:\users\aluno\desktop\twitter-ecoi08-master\mensagem.h
+	<iostream>
+	<stdio.h>
+	<string.h>
+
+1465548506 c:\users\aluno\desktop\twitter-ecoi08-master\binarioarq.h
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<fstream>
+
+1465548506 source:c:\users\marvs\desktop\twitter-ecoi08-master\cadastro.cpp
+	"cadastro.h"
+
+1465548506 c:\users\marvs\desktop\twitter-ecoi08-master\cadastro.h
+	<iostream>
+	<string.h>
+
+1466337352 source:c:\users\marvs\desktop\twitter-ecoi08-master\main.cpp
+	"usuario.h"
+	"mensagem.h"
+	"cadastro.h"
+	"binarioarq.h"
+
+1466342251 c:\users\marvs\desktop\twitter-ecoi08-master\usuario.h
+
+1466347298 c:\users\marvs\desktop\twitter-ecoi08-master\mensagem.h
+	<iostream>
+	<stdio.h>
+	<string.h>
+	"mensagem.h"
+
+1465548506 c:\users\marvs\desktop\twitter-ecoi08-master\binarioarq.h
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<fstream>
+
+1466337708 source:c:\users\marvs\desktop\twitter-ecoi08-master\mensagem.cpp
+	"mensagem.h"
+	"usuario.h"
+
+1466342571 source:c:\users\marvs\desktop\twitter-ecoi08-master\usuario.cpp
+	<iostream>
+	<string.h>
+	"usuario.h"
+	<vector>
+
+1466342571 source:c:\users\marvs\desktop\twitter-ecoi08-master\twitter.cpp
+	"twitter.h"
+
+1466341882 c:\users\marvs\desktop\twitter-ecoi08-master\twitter.h
+	<vector>
+	"usuario.h"
+
+1465548506 source:d:\twitter-ecoi08-master\cadastro.cpp
+	"cadastro.h"
+
+1465548506 d:\twitter-ecoi08-master\cadastro.h
+	<iostream>
+	<string.h>
+
+1466771886 source:d:\twitter-ecoi08-master\main.cpp
+	"usuario.h"
+	"mensagem.h"
+	"cadastro.h"
+	"binarioarq.h"
+	"twitter.h"
+
+1466342252 d:\twitter-ecoi08-master\usuario.h
+
+1466446298 d:\twitter-ecoi08-master\mensagem.h
+	<iostream>
+	<stdio.h>
+	<string.h>
+	"usuario.h"
+
+1465548506 d:\twitter-ecoi08-master\binarioarq.h
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<fstream>
+
+1466771504 source:d:\twitter-ecoi08-master\twitter.cpp
+	"twitter.h"
+
+1466771426 d:\twitter-ecoi08-master\twitter.h
+	<vector>
+	"usuario.h"
+	"BPlusTree.hpp"
+
+1466342572 source:d:\twitter-ecoi08-master\usuario.cpp
+	<iostream>
+	<string.h>
+	"usuario.h"
+	<vector>
+
+1466443268 d:\twitter-ecoi08-master\mensagem.cpp
+	"usuario.h"
+
+1466442648 source:d:\twitter-ecoi08-master\bplustree.cpp
+	"BPlusTree.hpp"
+	"mensagem.h"
+
+1466443502 d:\twitter-ecoi08-master\bplustree.hpp
+	<iostream>
+	<stack>
+	<map>
+	<string>
+	"mensagem.h"
+
+1466446254 source:d:\twitter-ecoi08-master\mensagem.cpp
+	"mensagem.h"
+	"usuario.h"
+
+1466442648 source:d:\twitter-ecoi08-master1\bplustree.cpp
+	"BPlusTree.hpp"
+	"mensagem.h"
+
+1466443502 d:\twitter-ecoi08-master1\bplustree.hpp
+	<iostream>
+	<stack>
+	<map>
+	<string>
+	"mensagem.h"
+
+1466880752 d:\twitter-ecoi08-master1\mensagem.h
+	<iostream>
+	<stdio.h>
+	<string.h>
+	"usuario.h"
+
+1466342252 d:\twitter-ecoi08-master1\usuario.h
+
+1465548506 source:d:\twitter-ecoi08-master1\cadastro.cpp
+	"cadastro.h"
+
+1465548506 d:\twitter-ecoi08-master1\cadastro.h
+	<iostream>
+	<string.h>
+
+1466894094 source:d:\twitter-ecoi08-master1\main.cpp
+	"usuario.h"
+	"mensagem.h"
+	"cadastro.h"
+	"binarioarq.h"
+	"twitter.h"
+
+1465548506 d:\twitter-ecoi08-master1\binarioarq.h
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<fstream>
+
+1466885764 d:\twitter-ecoi08-master1\twitter.h
+	<vector>
+	"usuario.h"
+	"BPlusTree.hpp"
+
+1466882270 source:d:\twitter-ecoi08-master1\mensagem.cpp
+	"mensagem.h"
+	"usuario.h"
+
+1466883630 source:d:\twitter-ecoi08-master1\twitter.cpp
+	"twitter.h"
+
+1466342572 source:d:\twitter-ecoi08-master1\usuario.cpp
+	<iostream>
+	<string.h>
+	"usuario.h"
+	<vector>
+
+1466947849 source:c:\users\gustavo\desktop\twitter-ecoi08-master1\bplustree.cpp
+	"BPlusTree.hpp"
+	"mensagem.h"
+
+1466443502 c:\users\gustavo\desktop\twitter-ecoi08-master1\bplustree.hpp
+	<iostream>
+	<stack>
+	<map>
+	<string>
+	"mensagem.h"
+
+1466965392 c:\users\gustavo\desktop\twitter-ecoi08-master1\mensagem.h
+	<iostream>
+	<stdio.h>
+	<string.h>
+	"usuario.h"
+
+1466952381 c:\users\gustavo\desktop\twitter-ecoi08-master1\usuario.h
+
+1465548506 source:c:\users\gustavo\desktop\twitter-ecoi08-master1\cadastro.cpp
+	"cadastro.h"
+
+1465548506 c:\users\gustavo\desktop\twitter-ecoi08-master1\cadastro.h
+	<iostream>
+	<string.h>
+
+1466948918 source:c:\users\gustavo\desktop\twitter-ecoi08-master1\main.cpp
+	"usuario.h"
+	"mensagem.h"
+	"binarioarq.h"
+	"twitter.h"
+
+1465548506 c:\users\gustavo\desktop\twitter-ecoi08-master1\binarioarq.h
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<fstream>
+
+1466949240 c:\users\gustavo\desktop\twitter-ecoi08-master1\twitter.h
+	<vector>
+	"usuario.h"
+	"BPlusTree.hpp"
+
+1466965392 source:c:\users\gustavo\desktop\twitter-ecoi08-master1\mensagem.cpp
+	"mensagem.h"
+	"usuario.h"
+
+1466965338 source:c:\users\gustavo\desktop\twitter-ecoi08-master1\twitter.cpp
+	"twitter.h"
+
+1466943453 source:c:\users\gustavo\desktop\twitter-ecoi08-master1\usuario.cpp
+	<iostream>
+	<string.h>
+	"usuario.h"
+	<vector>
+
+1466947849 source:c:\users\aluno\desktop\twitter-ecoi08-master1\bplustree.cpp
+	"BPlusTree.hpp"
+	"mensagem.h"
+
+1466443502 c:\users\aluno\desktop\twitter-ecoi08-master1\bplustree.hpp
+	<iostream>
+	<stack>
+	<map>
+	<string>
+	"mensagem.h"
+
+1466965392 c:\users\aluno\desktop\twitter-ecoi08-master1\mensagem.h
+	<iostream>
+	<stdio.h>
+	<string.h>
+	"usuario.h"
+
+1467048906 c:\users\aluno\desktop\twitter-ecoi08-master1\usuario.h
+
+1467048553 source:c:\users\aluno\desktop\twitter-ecoi08-master1\main.cpp
+	"usuario.h"
+	"mensagem.h"
+	"binarioarq.h"
+	"twitter.h"
+
+1465548506 c:\users\aluno\desktop\twitter-ecoi08-master1\binarioarq.h
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<fstream>
+
+1466949240 c:\users\aluno\desktop\twitter-ecoi08-master1\twitter.h
+	<vector>
+	"usuario.h"
+	"BPlusTree.hpp"
+
+1467049510 source:c:\users\aluno\desktop\twitter-ecoi08-master1\mensagem.cpp
+	"mensagem.h"
+	"usuario.h"
+
+1467048906 source:c:\users\aluno\desktop\twitter-ecoi08-master1\usuario.cpp
+	<iostream>
+	<string.h>
+	"usuario.h"
+	<vector>
+
+1467049280 source:c:\users\aluno\desktop\twitter-ecoi08-master1\twitter.cpp
+	"twitter.h"
+
+1467066851 source:c:\users\marvs\desktop\twitter-ecoi08-master1\bplustree.cpp
+	"BPlusTree.hpp"
+
+1467058028 c:\users\marvs\desktop\twitter-ecoi08-master1\bplustree.hpp
+	<iostream>
+	<stack>
+	<map>
+	<string>
+
+1467209767 c:\users\marvs\desktop\twitter-ecoi08-master1\mensagem.h
+	<iostream>
+	<stdio.h>
+	<string.h>
+	"usuario.h"
+
+1467066948 c:\users\marvs\desktop\twitter-ecoi08-master1\usuario.h
+	<fstream>
+
+1467209725 source:c:\users\marvs\desktop\twitter-ecoi08-master1\main.cpp
+	"usuario.h"
+	"mensagem.h"
+	"binarioarq.h"
+	"twitter.h"
+
+1465548506 c:\users\marvs\desktop\twitter-ecoi08-master1\binarioarq.h
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<fstream>
+
+1467211298 c:\users\marvs\desktop\twitter-ecoi08-master1\twitter.h
+	<vector>
+	"usuario.h"
+	"BPlusTree.hpp"
+	<map>
+	"mensagem.h"
+
+1467209705 source:c:\users\marvs\desktop\twitter-ecoi08-master1\mensagem.cpp
+	"mensagem.h"
+	"usuario.h"
+
+1467209854 source:c:\users\marvs\desktop\twitter-ecoi08-master1\twitter.cpp
+	"twitter.h"
+
+1467067038 source:c:\users\marvs\desktop\twitter-ecoi08-master1\usuario.cpp
+	<iostream>
+	<string.h>
+	"usuario.h"
+	<vector>
+
+1467066851 source:c:\users\douglas\desktop\twitter-ecoi08-master1 29-06\bplustree.cpp
+	"BPlusTree.hpp"
+
+1467058028 c:\users\douglas\desktop\twitter-ecoi08-master1 29-06\bplustree.hpp
+	<iostream>
+	<stack>
+	<map>
+	<string>
+
+1467297729 source:c:\users\douglas\desktop\twitter-ecoi08-master1 29-06\main.cpp
+	"usuario.h"
+	"mensagem.h"
+	"binarioarq.h"
+	"twitter.h"
+
+1467293290 c:\users\douglas\desktop\twitter-ecoi08-master1 29-06\usuario.h
+	<fstream>
+	<map>
+
+1467209767 c:\users\douglas\desktop\twitter-ecoi08-master1 29-06\mensagem.h
+	<iostream>
+	<stdio.h>
+	<string.h>
+	"usuario.h"
+
+1465548506 c:\users\douglas\desktop\twitter-ecoi08-master1 29-06\binarioarq.h
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<fstream>
+
+1467294394 c:\users\douglas\desktop\twitter-ecoi08-master1 29-06\twitter.h
+	<vector>
+	"usuario.h"
+	"BPlusTree.hpp"
+	<map>
+	"mensagem.h"
+
+1467251473 source:c:\users\douglas\desktop\twitter-ecoi08-master1 29-06\mensagem.cpp
+	"mensagem.h"
+	"usuario.h"
+
+1467296660 source:c:\users\douglas\desktop\twitter-ecoi08-master1 29-06\twitter.cpp
+	"twitter.h"
+
+1467293290 source:c:\users\douglas\desktop\twitter-ecoi08-master1 29-06\usuario.cpp
+	<iostream>
+	<string.h>
+	"usuario.h"
+	<vector>
+
+1467066851 source:c:\users\marvs\desktop\twitter 01-07\twitter-ecoi08-master1 29-06\bplustree.cpp
+	"BPlusTree.hpp"
+
+1467058028 c:\users\marvs\desktop\twitter 01-07\twitter-ecoi08-master1 29-06\bplustree.hpp
+	<iostream>
+	<stack>
+	<map>
+	<string>
+
+1467555850 source:c:\users\marvs\desktop\twitter 01-07\twitter-ecoi08-master1 29-06\main.cpp
+	"usuario.h"
+	"mensagem.h"
+	"binarioarq.h"
+	"twitter.h"
+	<windows.h>
+
+1467506126 c:\users\marvs\desktop\twitter 01-07\twitter-ecoi08-master1 29-06\usuario.h
+	<fstream>
+	<map>
+
+1467555866 c:\users\marvs\desktop\twitter 01-07\twitter-ecoi08-master1 29-06\mensagem.h
+	<iostream>
+	<stdio.h>
+	<string.h>
+	"usuario.h"
+
+1465548506 c:\users\marvs\desktop\twitter 01-07\twitter-ecoi08-master1 29-06\binarioarq.h
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<fstream>
+
+1467555850 c:\users\marvs\desktop\twitter 01-07\twitter-ecoi08-master1 29-06\twitter.h
+	<vector>
+	"usuario.h"
+	"BPlusTree.hpp"
+	<map>
+	"mensagem.h"
+
+1467547471 source:c:\users\marvs\desktop\twitter 01-07\twitter-ecoi08-master1 29-06\mensagem.cpp
+	"mensagem.h"
+	"usuario.h"
+
+1467554041 source:c:\users\marvs\desktop\twitter 01-07\twitter-ecoi08-master1 29-06\twitter.cpp
+	"twitter.h"
+
+1467555156 source:c:\users\marvs\desktop\twitter 01-07\twitter-ecoi08-master1 29-06\usuario.cpp
+	<iostream>
+	<string.h>
+	"usuario.h"
+	<vector>
+	"twitter.h"
+	<cstring>
+	<string>
+
